@@ -1,0 +1,15 @@
+com\paulsofts\springbatch\config\BatchConfig.class
+com\paulsofts\springbatch\config\Processor.class
+META-INF\MANIFEST.MF
+com\paulsofts\springbatch\secondary\Developer.class
+META-INF\maven\com.paulsofts\spring-batch\pom.xml
+com\paulsofts\springbatch\primary\EmployeeRepository.class
+com\paulsofts\springbatch\SpringBatchApplication.class
+com\paulsofts\springbatch\config\Writer.class
+com\paulsofts\springbatch\primary\PrimaryDbConfig.class
+META-INF\maven\com.paulsofts\spring-batch\pom.properties
+com\paulsofts\springbatch\config\Reader$EmployeeRowMapper.class
+com\paulsofts\springbatch\primary\Employee.class
+com\paulsofts\springbatch\secondary\DeveloperRepository.class
+com\paulsofts\springbatch\config\Reader.class
+com\paulsofts\springbatch\secondary\SecondaryDbConfig.class
